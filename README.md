@@ -1,41 +1,16 @@
-# 🌱 Green_Vibe App
+# sustainable_living_app
 
-A modern and eco-friendly mobile application built using **Flutter** with **SQLite** database support.  
-This app helps users track their carbon footprint, set water reminders, and explore sustainable living tips — all offline-ready.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
+This project is a starting point for a Flutter application.
 
-- ✅ Carbon footprint tracking  
-- ✅ Plastic Waest 
-- ✅ Daily water reminder alerts (local notifications)  
-- ✅ Sustainable recipes & lifestyle tips  
-- ✅ Offline data storage with SQLite  
-- ✅ Clean and responsive UI (optimized for Android/Redmi devices)  
-- ✅ Easy to build and run with Flutter  
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 🛠 Tech Stack
-
-- **Framework:** Flutter (Dart)  
-- **Database:** SQLite (sqflite + path_provider)  
-- **UI:** Material Design Widgets  
-
----
-
-## 📁 Folder Structure
-
-green_vibe/
-│
-├── lib/  
-│   ├── main.dart # App entry point  
-│   ├── models/ # Data models (carbon_entry.dart, profile.dart)  
-│   ├── screens/ # App screens (home, tracker, reminders, settings)  
-│   ├── services/ # DB helper & notification service  
-│   └── widgets/ # Reusable UI components  
-│
-├── assets/ # Images, icons, translations  
-├── pubspec.yaml # Project dependencies  
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
